@@ -1,0 +1,24 @@
+body {
+  background-color: skyblue;
+}
+h1 {
+  font-size: 48px;
+  color: black;
+}
+
+p{
+  font-family: monospace;
+  color: '#ccc';
+}
+
+div#my-divider {
+  border: 2px solid #000;
+  height: 300px;
+  width: 300px;
+}
+
+ol { list-style: none; }
+
+li.horizontal { display: inline; }
+
+.bottom { color:red; }
