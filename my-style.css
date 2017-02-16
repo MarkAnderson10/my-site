@@ -1,24 +1,20 @@
 body {
   background-color: skyblue;
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+header{
+
 }
 h1 {
   font-size: 48px;
   color: black;
 }
 
-p{
+p {
   font-family: monospace;
   color: '#ccc';
 }
-
-div#my-divider {
-  border: 2px solid #000;
-  height: 300px;
-  width: 300px;
-}
-
-ol { list-style: none; }
-
-li.horizontal { display: inline; }
-
-.bottom { color:red; }
