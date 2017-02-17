@@ -5,16 +5,13 @@ body {
   padding-right: 15px;
   padding-bottom: 15px;
 }
-
-header{
-
+nav{
+  padding-top: 3.5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
-h1 {
-  font-size: 48px;
-  color: black;
-}
-
 p {
   font-family: monospace;
   color: '#ccc';
+
 }
