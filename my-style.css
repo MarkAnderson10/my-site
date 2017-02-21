@@ -4,25 +4,36 @@ body {
 
 }
 
+.navbar-brand {
+  padding-top: 0;
+}
+
+.navbar {
+  margin: -1px;
+  background-color: black;
+}
 .footer {
   background: black;
   opacity: 0.85;
   margin-top: 80px;
+  padding-top: 10px;
   position: relative;
 }
 
 .container-jumbotron {
   color: white;
 }
+
 .jumbotron-fluid {
   background-size: cover;
+
 }
 .jumbotron {
   margin-top: 0px;
 }
 
 .quotedisplay {
-  font-size: 24.2px;
+  font-size: 26px;
 }
 
 .lead {
